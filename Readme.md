@@ -36,7 +36,7 @@ The project is structured as follows:
 ## User Guide
 To use this project, follow the steps below:
 
-1. Clone the repository: git clone https://github.com/fahaddeshmukh/steel-defect
+1. Clone the repository: git clone https://github.com/fahaddeshmukh/image-seg
 
 
 2. Install the required dependencies: pip install -r requirements.txt
